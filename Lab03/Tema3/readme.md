@@ -1,0 +1,1 @@
+Pentru exercitiul 2 nu s-a cerut nimic in python. Deci am pastrat doar solutia pe foaie.
