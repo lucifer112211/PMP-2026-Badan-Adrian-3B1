@@ -4,9 +4,7 @@ model = DiscreteMarkovNetwork()
 
 model.add_edges_from([
     ("A1", "A2"),
-    ("A1", "A3"),
-    ("A2", "A4"),
-    ("A2", "A5"),
+    ("A2", "A3"),
     ("A3", "A4"),
     ("A4", "A5")
 ])
